@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adji%20Bhawantu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Junior%20Developer%20%7C%20Indonesia%20🇮🇩&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <!-- Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World!+%F0%9F%91%8B+I'm+Adji;Building+Things+on+the+Web+%F0%9F%9A%80;Learning+%26+Growing+Every+Day+%F0%9F%92%A1;Open+to+Collaborations+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World!+%F0%9F%91%8B+I'm+Adji;Building+Things+on+the+Web+%F0%9F%9A%80;Learning+%26+Growing+Every+Day+%F0%9F%92%A1;Open+to+Collaborations+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 <br/>
