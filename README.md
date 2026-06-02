@@ -7,8 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World!+%F0%9F%91%8B+I'm+Adji;Building+Things+on+the+Web+%F0%9F%9A%80;Learning+%26+Growing+Every+Day+%F0%9F%92%A1;Open+to+Collaborations+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
-<br/>
-<br/>
 
 <!-- Social Badges -->
 <p>
@@ -74,24 +72,15 @@ const adji = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/adjibhawantu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adjibhawantu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjibhawantu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-</a>
-
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=adjibhawantu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adjibhawantu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjibhawantu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adjibhawantu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adjibhawantu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak" />
 </div>
 
 ---
