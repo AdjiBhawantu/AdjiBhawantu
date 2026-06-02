@@ -106,7 +106,11 @@ const adji = {
 
 ## 🎵 Now Playing on Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hjhr4emqiswv73iesndghwv6eu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hjhr4emqiswv73iesndghwv6eu&redirect=true)
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjhr4emqiswv73iesndghwv6eu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjhr4emqiswv73iesndghwv6eu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
 
 ---
 
