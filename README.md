@@ -96,11 +96,11 @@ const adji = {
 
 ## 🎵 Spotify Recently Played
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31hjhr4emqiswv73iesndghwv6eu">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjhr4emqiswv73iesndghwv6eu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=a78bfa&bar_color_cover=true" alt="Spotify Recently Played" />
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjhr4emqiswv73iesndghwv6eu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjhr4emqiswv73iesndghwv6eu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
   </a>
-</div>
+</p>
 
 > 🔧 **Setup:** Deploy [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) ke Vercel & login dengan akun Spotify kamu, lalu ganti URL di atas dengan URL yang digenerate.
 
