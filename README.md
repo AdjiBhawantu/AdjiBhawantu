@@ -88,14 +88,6 @@ const adji = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adjibhawantu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -114,11 +106,7 @@ const adji = {
 
 ## 🎵 Now Playing on Spotify
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31hjhr4emqiswv73iesndghwv6eu">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hjhr4emqiswv73iesndghwv6eu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hjhr4emqiswv73iesndghwv6eu&redirect=true)
 
 ---
 
