@@ -73,13 +73,11 @@ const adji = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-seven-psi-55eic1wzyc.vercel.app/api?username=adjibhawantu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-seven-psi-55eic1wzyc.vercel.app/api?username=adjibhawantu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-seven-psi-55eic1wzyc.vercel.app/api/top-langs/?username=adjibhawantu&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-seven-psi-55eic1wzyc.vercel.app/api/top-langs/?username=adjibhawantu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=adjibhawantu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats-two-tau.vercel.app?user=adjibhawantu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 ---
